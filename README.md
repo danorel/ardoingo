@@ -1,6 +1,6 @@
-# foobar
+# ardoingo
 
-foobar is a Python project for dealing with ...
+ardoingo is a Python project for dealing with Arduino UNO experiments with Machine Learning
 
 ## Installation & Contributing
 
